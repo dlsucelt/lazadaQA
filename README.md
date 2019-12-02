@@ -14,4 +14,16 @@ This repository currently contains the annotated dataset LazadaQA-Taglish-7k. 7,
 The tags only correspond to the question asked, therefore during the annotation process, the answer, the customer, the seller, and the time are disregarded by the annotators. The assignment of tags were decided by majority agreement (i.e. a tag is assigned if 2 out of 3 annotators agree).
 
 ## Paper
-This corpus is a part of a paper about to be presented in [ECONLP 2019](https://sites.google.com/view/econlp-2019) (EMNLP-IJCNLP 2019 Hong Kong). The pre-print is available at [ResearchGate](https://www.researchgate.net/publication/337005379_Annotation_Process_for_the_Dialog_Act_Classification_of_a_Taglish_E-commerce_QA_Corpus) and the final paper is now available at the [ACL Anthology](https://www.aclweb.org/anthology/D19-5108/).
+This corpus is a part of a paper presented in [ECONLP 2019][1] (EMNLP-IJCNLP 2019 Hong Kong). The pre-print is available at [ResearchGate][2] and the final paper is now available at the [ACL Anthology][3].
+
+## Poster
+The poster, which is also presented to [ECONLP 2019][1], is available at [ResearchGate][4].
+
+## License
+[gpl-3.0][5]
+
+[1]: https://sites.google.com/view/econlp-2019
+[2]: https://www.researchgate.net/publication/337007422_Annotation_Process_for_the_Dialog_Act_Classification_of_a_Taglish_E-commerce_QA_Corpus
+[3]: https://www.aclweb.org/anthology/D19-5108/
+[4]: https://www.researchgate.net/publication/337050116_Annotation_Process_for_the_Dialog_Act_Classification_of_a_Taglish_E-Commerce_QA_Corpus
+[5]: https://www.gnu.org/licenses/gpl-3.0.en.html
